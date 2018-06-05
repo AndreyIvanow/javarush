@@ -1,0 +1,6 @@
+Jonson 2
+Parker 1
+Jonson 1.35
+Jobs 3.1
+Trump 3.1
+Jobs 0.25
